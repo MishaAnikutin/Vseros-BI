@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/misha/Desktop/Programming/Scala programming/Vseros-BI/backend/src/main/resources/logback.xml,/home/misha/Desktop/Programming/Scala programming/Vseros-BI/backend/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/misha/Desktop/Programming/Scala programming/Vseros-BI/backend/src/main/resources/META-INF/native-image/ru/ad_olimp/backend/reflect-config.json,/home/misha/Desktop/Programming/Scala programming/Vseros-BI/backend/target/scala-2.13/classes/META-INF/native-image/ru/ad_olimp/backend/reflect-config.json)[0m
