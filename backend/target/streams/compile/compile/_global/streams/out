@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/misha/Desktop/Programming/Scala programming/Vseros-BI/backend/src/main/scala/ru/ad_olimp/backend/Server.scala:11:10: expected start of definition[0m
-[0m[[0m[31merror[0m] [0m[0moverride def run(args: List[String]): IO[ExitCode] = {[0m
-[0m[[0m[31merror[0m] [0m[0m         ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
